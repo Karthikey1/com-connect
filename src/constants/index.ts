@@ -1,0 +1,17 @@
+export const INTEREST_CATEGORIES = [
+  'Sports & Fitness',
+  'Arts & Culture',
+  'Technology',
+  'Food & Dining',
+  'Music',
+  'Outdoor Activities',
+  'Professional Networking',
+  'Education',
+  'Gaming',
+  'Photography',
+  'Travel',
+  'Volunteering',
+  'Books & Literature',
+  'Movies & Entertainment',
+  'Health & Wellness',
+];
